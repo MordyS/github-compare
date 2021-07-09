@@ -1,0 +1,22 @@
+{
+    "name": "GitHub brunches compare",
+    "description": "Compare brunches on github with just one click!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "author": "www.mordy.dev@gmail.com",
+    "content_scripts": [
+        {
+            "all_frames": false,
+            "matches": [
+                "https://github.com/*"
+            ],
+            "js": [
+                "js/main.js"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+    "icons": {
+        "32": "logo.png"
+    }
+}
