@@ -1,6 +1,6 @@
 {
-    "name": "GitHub brunches compare",
-    "description": "Compare brunches on github with just one click!",
+    "name": "GitHub branches compare",
+    "description": "Compare branches on github with just one click!",
     "version": "1.0",
     "manifest_version": 3,
     "author": "www.mordy.dev@gmail.com",
