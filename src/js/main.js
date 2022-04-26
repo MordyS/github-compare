@@ -1,4 +1,4 @@
-const branches = ['master', 'chaim', 'mordy']
+const branches = ['master', 'prodution', 'mordy']
 
 function compareOptions(_branches) {
   return _branches.reduce((acc, cur) => {
