@@ -1,7 +1,7 @@
 {
     "name": "GitHub branches compare",
     "description": "Compare branches on github with just one click!",
-    "version": "1.0",
+    "version": "1.1",
     "manifest_version": 3,
     "author": "www.mordy.dev@gmail.com",
     "content_scripts": [
